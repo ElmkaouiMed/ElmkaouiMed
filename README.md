@@ -31,7 +31,8 @@ My work focuses on clean UI, real business features, responsive design, performa
 ### Topography Office Dashboard
 Business dashboard for managing projects, clients, documents, invoices, users, and internal operations.
 
-**Live demo:** https://hmtop.elmkaoui.com/dashboard
+**Live demo:** https://hmtop.elmkaoui.com/dashboard  
+**Case study:** [Topography Office Dashboard](./case-studies/topography-office-dashboard.md)
 
 ### Car Rental Website Templates
 Modern multilingual Next.js templates built for rental businesses with Google Sheets CMS, WhatsApp booking, SEO structure, responsive UI, and clean animations.
