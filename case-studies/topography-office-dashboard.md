@@ -73,11 +73,34 @@ Full invoicing module with manual and electronic (UBL) billing support. Track to
 
 ![Invoice management with e-invoicing and VAT declaration](assets/dashboard-factures.jpg)
 
+### Projets (Projects)
+
+Track all topography projects from creation to completion. Each project card shows its status, linked invoices, associated missions, and planning. Search and filter across the entire project database.
+
+![Project management page with status tracking and linked invoices](assets/dashboard-projets.jpg)
+
+### Planning (Missions & Scheduling)
+
+Organize team field missions with a visual planning interface. Filter by status, responsible team member, or project. Export schedules for offline use.
+
+![Team mission planning and scheduling interface](assets/dashboard-planning.jpg)
+
 ### Courriers (Correspondence)
 
 Log all incoming and outgoing correspondence — letters, permits, official documents. Filter by status, document type, or associated project. Every entry maintains a complete audit trail.
 
 ![Mail/correspondence tracking with filters and status](assets/dashboard-courriers.jpg)
+
+### Paramètres (Settings)
+
+Full administrative control panel covering:
+- **Mail types** — Define custom document categories and templates
+- **Email** — Configure SMTP for sending invoices and correspondence
+- **Numbering** — Automatic document numbering sequences (devis, factures, courriers)
+- **Templates** — Dynamic document templates with variables like `{companyName}`, `{clientName}`, `{project}`
+- **E-invoicing** — UBL configuration for electronic invoicing and VAT declaration
+
+![Settings panel with mail types, templates, and numbering configuration](assets/dashboard-parametres.jpg)
 
 ---
 
@@ -108,10 +131,22 @@ Log all incoming and outgoing correspondence — letters, permits, official docu
 - Track payment status per invoice
 - VAT declaration support
 
+### 📅 Mission Planning
+- Visual planning interface for scheduling team field missions
+- Filter missions by status, responsible person, or project
+- Export planning schedules for offline use
+- Track mission history per project
+
 ### 👥 User & Role Management
 - Secure authentication with email/password
 - Role-based access control (admin, manager, viewer)
 - Each user sees only what they need
+
+### ⚙️ Settings & Configuration
+- Customizable document templates with dynamic variables
+- Automatic numbering sequences for quotes, invoices, correspondence
+- SMTP email configuration for sending documents
+- Mail type management with custom categories and statuses
 
 ### 📊 Dashboard & KPIs
 - Real-time operational pipeline overview
@@ -145,6 +180,8 @@ I owned the full development lifecycle:
 4. **Frontend & backend** — implemented all features end-to-end
 5. **Authentication** — built a secure login and role-based access system
 6. **Electronic invoicing** — integrated UBL format for e-invoicing and VAT declaration
+7. **Template engine** — built dynamic document templates with variable injection
+8. **Mission planning** — designed scheduling interface for field team coordination
 7. **Deployment** — configured and deployed on a VPS with production-ready setup
 8. **Maintenance** — ongoing improvements based on real user feedback
 
