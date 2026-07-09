@@ -10,8 +10,6 @@
 
 A complete business management dashboard built for a Moroccan topography (surveying) office. The platform centralizes daily operations — client management, project tracking, document handling, invoicing, and team coordination — replacing a fragmented workflow of Excel sheets, paper folders, and WhatsApp messages.
 
-![Dashboard Overview — key metrics, pipeline, and invoicing summary](assets/dashboard-overview.jpg)
-
 ---
 
 ## The Problem
@@ -45,13 +43,41 @@ A role-based internal dashboard where the office can:
 - Control **user access** with role-based permissions
 - View a **dashboard** with real-time KPIs, pipeline status, and weekly summaries
 
-### Screenshots
+---
 
-| Clients Management | Correspondence Tracking |
+## Pages Walkthrough
+
+### Dashboard
+
+The main landing page gives a bird's-eye view of the entire operation. Key metrics at the top show pending quotes, active projects, and unpaid invoices at a glance. The operational pipeline visualizes the status of all ongoing dossiers, while the invoicing section tracks revenue trends over time.
+
+| Dashboard Overview | Dashboard with Metrics |
 |---|---|
-| ![Client management interface with search and contact list](assets/dashboard-clients.jpg) | ![Document/correspondence tracking with filters and status](assets/dashboard-courriers.jpg) |
+| ![Dashboard with pipeline and invoicing charts](assets/dashboard-overview.jpg) | ![Dashboard showing stats cards and weekly summary](assets/dashboard-overview-v2.jpg) |
 
-*Left: Client management with global search and contact list. Right: Correspondence (Courriers) module with filtering by status, type, and project.*
+### Clients
+
+A centralized contact database with global search across company names, emails, and TVA numbers. Each client record is linked to their associated projects and documents, making it easy to pull up a complete history during calls or meetings.
+
+![Client management interface with search and contact list](assets/dashboard-clients.jpg)
+
+### Devis (Estimates / Quotes)
+
+Create, send, and track price estimates for topography projects. Each quote is numbered sequentially, linked to a client, and tracked through its status lifecycle. The interface supports search and filtering to quickly find any quote.
+
+![Quotes management page with search and status tracking](assets/dashboard-devis.jpg)
+
+### Factures (Invoices)
+
+Full invoicing module with manual and electronic (UBL) billing support. Track total HT, TVA, and TTC amounts, filter by payment status, and declare VAT directly from the interface. The module supports the Moroccan e-invoicing workflow.
+
+![Invoice management with e-invoicing and VAT declaration](assets/dashboard-factures.jpg)
+
+### Courriers (Correspondence)
+
+Log all incoming and outgoing correspondence — letters, permits, official documents. Filter by status, document type, or associated project. Every entry maintains a complete audit trail.
+
+![Mail/correspondence tracking with filters and status](assets/dashboard-courriers.jpg)
 
 ---
 
@@ -76,10 +102,11 @@ A role-based internal dashboard where the office can:
 - Complete audit trail for all correspondence
 
 ### 💰 Invoicing & Payments
-- Create invoices linked to projects
+- Create invoices linked to projects with manual or electronic (UBL) billing
 - Dashboard shows total invoiced, paid, and outstanding amounts
 - Weekly and monthly invoicing charts
 - Track payment status per invoice
+- VAT declaration support
 
 ### 👥 User & Role Management
 - Secure authentication with email/password
@@ -117,8 +144,9 @@ I owned the full development lifecycle:
 3. **UI/UX design** — structured the dashboard layout, navigation, and data presentation
 4. **Frontend & backend** — implemented all features end-to-end
 5. **Authentication** — built a secure login and role-based access system
-6. **Deployment** — configured and deployed on a VPS with production-ready setup
-7. **Maintenance** — ongoing improvements based on real user feedback
+6. **Electronic invoicing** — integrated UBL format for e-invoicing and VAT declaration
+7. **Deployment** — configured and deployed on a VPS with production-ready setup
+8. **Maintenance** — ongoing improvements based on real user feedback
 
 ---
 
@@ -128,6 +156,7 @@ I owned the full development lifecycle:
 - ✅ **Real-time visibility** — dashboard shows pipeline and financial status instantly
 - ✅ **Reduced admin overhead** — no more manual Excel updates or paper chasing
 - ✅ **Professional client management** — faster responses, better organized records
+- ✅ **E-invoicing ready** — UBL-compliant electronic invoicing and VAT declaration
 - ✅ **Scalable foundation** — ready for additional modules (reporting, analytics, etc.)
 
 ---
@@ -140,6 +169,7 @@ This project goes beyond static websites or landing pages. It shows:
 - **Full-stack capability** — from database design to UI to deployment
 - **Business domain understanding** — building software that solves real operational problems
 - **Production delivery** — deployed and used by a real business
+- **Local compliance** — Moroccan e-invoicing standards (UBL, TVA declaration)
 
 ---
 
