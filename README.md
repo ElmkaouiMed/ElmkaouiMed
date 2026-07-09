@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Mohamed Elmkaoui</h1>
-  <p><strong>Full-Stack Developer</strong> — SaaS · Dashboards · AI Tools · Business Web Apps</p>
+  <p><strong>Product-focused JavaScript partner</strong> — SaaS · Dashboards · E-commerce · AI Tools</p>
+  <p>I help startups, scaleups, and employers design, ship, and evolve web platforms.</p>
 
   <!-- Badges -->
   <p>
@@ -10,59 +11,52 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
   </p>
 
-  <!-- GitHub Stats -->
+  <!-- Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ElmkaouiMed&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmkaouiMed&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ElmkaouiMed&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmkaouiMed&layout=compact&theme=github_dark&hide_border=true" height="150"/>
   </p>
 </div>
 
 ---
 
-I build practical web solutions for businesses: landing pages, admin dashboards, POS systems, stock management tools, document platforms, AI apps, and internal workflow systems.
+I build production web applications for businesses in Morocco and beyond — from Shopify e-commerce stores and WordPress sites to full-stack SaaS platforms, admin dashboards, and AI-powered tools. My work spans **45+ launches** with a focus on clean UX, performance, and measurable results.
 
-My work focuses on **clean UI**, **real business features**, **responsive design**, **performance**, and **maintainable code**.
-
----
-
-## 🔧 What I Build
-
-- **Business Websites** — modern landing pages, service websites, multilingual templates, WhatsApp/contact flows
-- **Dashboards & Admin Panels** — client management, invoices, documents, stock, orders, reports, user roles
-- **SaaS & Internal Tools** — business workflow apps, CRUD systems, exports, authentication, deployment
-- **AI Web Apps** — RAG-based tools, dynamic resume generation, exam preparation assistants, AI-powered workflows
+> 🏆 **98/100** Lighthouse score · **92%** client retention · **45+** projects shipped
 
 ---
 
-## 🚀 Featured Projects
+## 📖 Featured Case Studies
 
-### Car Rental Website Collection
-Multi-language (EN/FR/AR) Next.js templates with Google Sheets CMS, WhatsApp booking, and SEO optimization.
+### 🗺️ Topography Office Dashboard
+Complete business management platform for a surveying office — client management, projects, quotes, invoices (UBL e-invoicing), correspondence tracking, mission planning, team scheduling, and admin settings.
+> **Live demo:** [hmtop.elmkaoui.com/dashboard](https://hmtop.elmkaoui.com/dashboard) — `admin@topography.local` / `admin1234`
+>
+> 📄 [Full case study →](case-studies/topography-office-dashboard.md)
 
-| Template | Demo | Description |
-|----------|------|-------------|
-| 🌅 **Sunline** | [Live →](https://sunline-rental.vercel.app/en/) | Bright, modern car rental with warm orange palette |
-| ⚫ **Onyx** | [Live →](https://onyx-rental.vercel.app/en/) | Premium dark editorial luxury car rental |
-| 🏢 **MultiBranch** | [Live →](https://multibranch-rental.vercel.app/en/) | Multi-location rental with gold accents |
-| 🔑 **KeyLine** | [Live →](https://keyline-rental.vercel.app/en/) | Warm sand-toned design, editorial feel |
-| 🚗 **FleetWise** | [Live →](https://fleetwise-rental.vercel.app/en/) | Fleet management with compare & booking flow |
+### 🛍️ Ayla Parfums
+Premium perfume e-commerce platform built with Shopify featuring a custom theme, 200+ product catalog, quick order system, and cash-on-delivery payment.
+> **Stack:** Shopify · Liquid · JavaScript · CSS
 
-### Topography Office Dashboard
-Business dashboard for managing projects, clients, documents, invoices, users, and internal operations.
+### 🏠 RenovPlus Solutions
+Professional renovation company website built with WordPress and Divi Builder, featuring project galleries, service pages, and contact systems.
+> **Stack:** WordPress · PHP · CSS · JavaScript
 
-**Live demo:** [hmtop.elmkaoui.com/dashboard](https://hmtop.elmkaoui.com/dashboard)
+### 🎓 PrepWise
+AI-powered interview preparation platform — practice technical and behavioral questions with instant feedback. Built with Next.js and OpenAI API.
+> **Stack:** Next.js · TypeScript · Tailwind · OpenAI API · Vapi
 
-### AI Resume Builder RAG
-AI tool for creating dynamic resumes from user data, job descriptions, and document-based context.
+### 🏗️ MethqalImmo Real Estate Platform
+Modern real estate platform with a Nuxt.js frontend and Laravel API backend featuring property listings, advanced search, and agent management.
+> **Stack:** Nuxt.js · Laravel · Vue.js · MySQL · Tailwind CSS
 
-**Status:** 🚧 In progress
-
-### Public Exams Preparation RAG
-AI preparation assistant for public job exams with document-based Q&A, summaries, flashcards, and practice questions.
-
-**Status:** 🚧 In progress
+### 📦 Evolution Products
+Online store for a Moroccan cleaning products supplier. Built with Nuxt.js, Node.js, and Express.
+> **Stack:** Nuxt.js · Node.js · Express · Tailwind CSS
 
 ---
 
@@ -70,10 +64,22 @@ AI preparation assistant for public job exams with document-based Q&A, summaries
 
 | Area | Technologies |
 |------|-------------|
-| **Frontend** | Next.js · React · TypeScript · Tailwind CSS · Framer Motion |
+| **Frontend** | Next.js · React · Vue.js · Nuxt.js · TypeScript · Tailwind CSS · Framer Motion |
 | **Backend** | Laravel · Node.js · Express.js · Nest.js · REST APIs |
+| **E-commerce** | Shopify (custom themes, Liquid) · WordPress · WooCommerce |
 | **Database** | MySQL · Prisma ORM · MongoDB |
-| **Tools** | Git · GitHub · Docker · Linux · VPS Deployment · API Integration · AI Coding Tools |
+| **Tools** | Git · GitHub · Docker · Linux · VPS Deployment · Figma · AI Coding Tools |
+
+---
+
+## 🔧 What I Build
+
+- **Web & Mobile Apps** — Next.js, React, Vue.js, Nuxt.js applications with type-safe APIs
+- **E-commerce** — Shopify custom themes, WooCommerce stores, headless commerce
+- **WordPress** — Custom themes, Divi builds, multilingual sites
+- **Dashboards & Admin Panels** — Client portals, invoicing, document management, CRMs
+- **SaaS & Internal Tools** — Business workflow automation, role-based systems
+- **AI Web Apps** — RAG-based tools, interview prep, resume generators
 
 ---
 
@@ -87,5 +93,5 @@ AI preparation assistant for public job exams with document-based Q&A, summaries
 ---
 
 <div align="center">
-  <sub>⚡ Building things that work, for businesses that grow.</sub>
+  <sub>⚡ Product-focused JavaScript partner — building things that work, for businesses that grow.</sub>
 </div>
