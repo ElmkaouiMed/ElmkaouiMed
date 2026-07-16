@@ -51,25 +51,25 @@ The landing page introduces the product with dual-theme support. Users can toggl
 
 | Light Theme | Dark Theme |
 |---|---|
-| ![White Hero](https://raw.githubusercontent.com/ElmkaouiMed/P_CV_BUILDER/main/Screen%20Shots/White%20Hero.png) | ![Black Hero](https://raw.githubusercontent.com/ElmkaouiMed/P_CV_BUILDER/main/Screen%20Shots/Black%20Hero.png) |
+| ![White Hero](assets/White%20Hero.png) | ![Black Hero](assets/Black%20Hero.png) |
 
 ### Resume Builder
 
 The builder is a 7-step form wizard. Each step has its own section with form fields, AI generation buttons, and validation. The interface supports three interface languages (EN/FR/AR) that switch automatically when the user changes the CV language. The right panel shows a live PDF preview that updates in real-time as fields are filled.
 
-![Resume builder interface with step navigation and live preview](https://raw.githubusercontent.com/ElmkaouiMed/P_CV_BUILDER/main/Screen%20Shots/Builder.png)
+![Resume builder interface with step navigation and live preview](assets/Builder.png)
 
 ### Saved Resumes
 
 Each authenticated user has their own resume storage. The dashboard shows a list of saved resumes with the ability to open, edit, or delete them. All data is isolated per user — no one can access another user's resumes.
 
-![Saved resumes management dashboard](https://raw.githubusercontent.com/ElmkaouiMed/P_CV_BUILDER/main/Screen%20Shots/Resumes.png)
+![Saved resumes management dashboard](assets/Resumes.png)
 
 ### Cover Letter Generator
 
 Generate tailored, context-aware cover letters alongside CVs. The AI adapts the tone and content based on the target position and company, producing professional letters ready for download.
 
-![AI cover letter generation interface](https://raw.githubusercontent.com/ElmkaouiMed/P_CV_BUILDER/main/Screen%20Shots/Cover%20Latter.png)
+![AI cover letter generation interface](assets/Cover%20Latter.png)
 
 ---
 
