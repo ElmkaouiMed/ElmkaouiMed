@@ -31,7 +31,7 @@ I build production web applications for businesses in Morocco and beyond — fro
 
 ---
 
-## 📖 Featured Case Study
+## 📖 Featured Case Studies
 
 > ### 🗺️ Topography Office Dashboard
 > Complete business management platform for a topography (surveying) office — clients, projects, quotes, invoices (UBL e-invoicing), correspondence, mission planning, team scheduling, and admin settings.
@@ -39,6 +39,15 @@ I build production web applications for businesses in Morocco and beyond — fro
 > **🔗 Live demo:** [hmtop.elmkaoui.com/dashboard](https://hmtop.elmkaoui.com/dashboard) — `admin@topography.local` / `admin1234`
 >
 > **📄 [Read the full case study →](case-studies/topography-office-dashboard.md)** *(9 screenshots included)*
+
+---
+
+> ### 📄 AI Resume Builder
+> Full-stack, AI-powered CV builder with professional templates, PDF export, cover letter generation, Google Auth, and multi-language support (EN/FR/AR with RTL). Built with Next.js 16 + FastAPI + Playwright + SQLite.
+>
+> **🔗 Live demo:** [cv.elmkaoui.com](https://cv.elmkaoui.com) — sign in with Google
+>
+> **📄 [Read the full case study →](case-studies/cv-builder.md)** *(5 screenshots included)*
 
 ---
 
