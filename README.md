@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/Flask-3.1-blue?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   </p>
 
   <p>
@@ -48,6 +51,14 @@ I build production web applications for businesses in Morocco and beyond — fro
 > **🔗 Live demo:** [cv.elmkaoui.com](https://cv.elmkaoui.com) — sign in with Google
 >
 > **📄 [Read the full case study →](case-studies/cv-builder.md)** *(5 screenshots included)*
+---
+
+> ### 🤖 Job Tracker Pro
+> Automated dual-axis job hunting pipeline — AI-powered job matching, company prospecting, and cold email outreach running 24/7 on a VPS. Next.js 16 dashboard, Flask backend, GPT-4o scoring, multi-source scraping (LinkedIn, Google Jobs, Emploi-Maroc), Gmail SMTP outreach.
+>
+> **🔗 Live dashboard:** [jobtracker.elmkaoui.com](https://jobtracker.elmkaoui.com)
+>
+> **📄 [Read the full case study →](case-studies/job-tracker-pro.md)** *(3 screenshots included)*
 
 ---
 
